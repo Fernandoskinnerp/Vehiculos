@@ -14,29 +14,18 @@ public class Vehiculo {
     /**
      *
      */
-    public string marca;
-    private int cilindraje;
-    private string modelo;
-    private int año;
+    public String marca;
+    public int cilindraje;
+    public  String modelo;
+    public  int año;
 
     void acelerar() {
-        
-        System.out.println("el carro está acelerando");
-        
+    
     }
-
+        
+     
     void frenar() {
- System.out.println("el carro está frenando");
+
     }
-
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
-
-    private static class string {
-
-        public string() {
-        }
-    }
-
+  
 }

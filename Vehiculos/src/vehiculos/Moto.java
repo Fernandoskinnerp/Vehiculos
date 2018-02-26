@@ -15,17 +15,13 @@ public class Moto extends Vehiculo {
         
         
         void acelerar() {
+        }
         
-         System.out.println("la moto está acelerando");
-        
-    }
-        void frenar (){
-         System.out.println("la moto está Frenando");
+             void frenar (){
         
     }
         void derrapar(){
-         System.out.println("la moto está derrapando");
-        
+         
     }
     }
     

@@ -134,7 +134,7 @@ public class Fichavehiculo extends javax.swing.JFrame {
         miMoto.modelo = texto2.getText();
         miMoto.cilindraje = Integer.parseInt(texto3.getText());
         miMoto.año = Integer.parseInt(texto4.getText());
-        JOptionPane.showMessageDialog(null);
+        JOptionPane.showMessageDialog(null )
 
         // TODO add your handling code here:
     }//GEN-LAST:event_BotonMouseClicked
